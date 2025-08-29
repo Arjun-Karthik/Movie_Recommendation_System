@@ -1,0 +1,10 @@
+pandas
+numpy
+selenium
+nltk
+tqdm
+sentence-transformers
+scikit-learn
+faiss-cpu
+streamlit
+plotly
