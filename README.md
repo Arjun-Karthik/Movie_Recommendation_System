@@ -1,6 +1,6 @@
 # 🎬 Movie Recommendation System
 
-⚙️ Workflow
+## ⚙️ Workflow
 1. Data Scraping
    
     - Uses Selenium to scrape IMDb 2024 movie data.
