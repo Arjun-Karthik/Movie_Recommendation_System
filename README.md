@@ -57,12 +57,27 @@ Ensure Python 3.8+ is installed.
 
 ## ✅ Requirements
 
-streamlit
-selenium
-pandas
-scikit-learn
-nltk
-spacy
-matplotlib
-seaborn
+   - pandas
+   - numpy
+   - selenium
+   - nltk
+   - tqdm
+   - sentence-transformers
+   - scikit-learn
+   - faiss-cpu
+   - streamlit
+   - plotly
 
+Install all with:
+
+       pip install -r requirements.txt
+
+## 📸 Screenshots
+
+### Overview
+
+<img src="Screenshots/barchart.png" width="800"/>
+
+### 📊 Distribution of Movie Ratings
+
+<img src="Screenshots/histogram.png" width="800"/>
