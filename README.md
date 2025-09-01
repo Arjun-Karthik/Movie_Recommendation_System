@@ -22,12 +22,12 @@
     - Apply Cosine Similarity to measure similarity between movie storylines.
     - Rank movies by similarity score.
 
-📊 Streamlit Dashboard
+## 📊 Streamlit Dashboard
 
    Upload IMDB_Movies_Data.csv into the app. Explore:
-    - Enter a movie storyline or text query. 
-    - Get the Top 5 most similar movies (based on storyline).
-    - View results with both movie name and storyline.
+   - Enter a movie storyline or text query. 
+   - Get the Top 5 most similar movies (based on storyline).
+   - View results with both movie name and storyline.
 
 ## ▶️ Running the App
 
