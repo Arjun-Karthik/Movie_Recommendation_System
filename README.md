@@ -74,13 +74,14 @@ Install all with:
 
 ## 📸 Screenshots
 
-### Overview
+### <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/38273f9b-7ada-4a87-97be-8c6666367ae0" />
+Overview
+
+<img src="Screenshots/main.png" width="800"/>
+
+### 📊 Similarity Score
 
 <img src="Screenshots/barchart.png" width="800"/>
-
-### 📊 Distribution of Movie Ratings
-
-<img src="Screenshots/histogram.png" width="800"/>
 
 ## 🎥 Demo Video
 
