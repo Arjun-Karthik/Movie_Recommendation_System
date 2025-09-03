@@ -74,8 +74,7 @@ Install all with:
 
 ## 📸 Screenshots
 
-### <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/38273f9b-7ada-4a87-97be-8c6666367ae0" />
-Overview
+### <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/control-panel.png" alt="control-panel"/> Overview
 
 <img src="Screenshots/main.png" width="800"/>
 
