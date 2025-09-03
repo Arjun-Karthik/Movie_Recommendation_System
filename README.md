@@ -74,7 +74,7 @@ Install all with:
 
 ## 📸 Screenshots
 
-### <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/89b2a80b-4911-42c7-90a0-5f89a59fa8ea" /> Overview
+### <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/89b2a80b-4911-42c7-90a0-5f89a59fa8ea" /> Overview
 
 <img src="Screenshots/main.png" width="800"/>
 
